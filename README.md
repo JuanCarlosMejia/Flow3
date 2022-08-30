@@ -19,6 +19,10 @@ A continuación se muestran los pasos para poder realizar el siguiente Flow
 -Obtener el flow del repositorio 
 -Dar click en Deploy
 
-
 # Evidencias
+![image](https://user-images.githubusercontent.com/111294967/187531991-63223fef-8fd8-4ccc-a817-7eb70fb9dd24.png)
+
+
+
+# Resultados
 ![image](https://user-images.githubusercontent.com/111294967/187531865-8ec14f45-218c-4634-b0d8-16e14768cee8.png)
